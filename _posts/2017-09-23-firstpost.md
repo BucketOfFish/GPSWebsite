@@ -9,10 +9,10 @@ tags:
   - rejoice
   - useless
 image:
-    thumb: cat-thumb.jpg
+    thumb: cat-thumb.jpeg
     caption: A cat I found.
 header: no
-    image_fullwidth: cat.jpg
+    image_fullwidth: cat-banner.jpeg
     caption: Look at the cat!
 ---
 ## My First Post
