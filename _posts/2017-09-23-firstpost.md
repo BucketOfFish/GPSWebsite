@@ -11,10 +11,9 @@ tags:
   - useless
 image:
     thumb: cat-thumb.jpeg
-    caption: A cat I found.
-header:
-    image_fullwidth: cat-banner.jpeg
     caption: Look at the cat!
+header:
+    image_fullwidth: cat-banner.jpg
 ---
 <!-- Page Content Starts Here -->
 

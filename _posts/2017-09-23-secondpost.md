@@ -11,10 +11,9 @@ tags:
   - useless
 image:
     thumb: dog-thumb.jpeg
-    caption: A dog I found.
+    caption: Look at the dog!
 header:
     image_fullwidth: dog-banner.jpg
-    caption: Look at the dog!
 ---
 <!-- Page Content Starts Here -->
 
