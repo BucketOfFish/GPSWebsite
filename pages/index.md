@@ -14,7 +14,7 @@ widget1:
   text: 'All our old presentations. Just like going back in time!'
 widget2:
   title: "Schedule"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/schedule'
   image: schedule.jpg
   text: 'Upcoming presentations. Just like going to the future!'
 widget3:
