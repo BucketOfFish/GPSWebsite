@@ -17,5 +17,5 @@ header:
 ---
 <!-- Page Content Starts Here -->
 
-## My Second Post
+## The Saga Continues
 Two posts in one day? My heart can't take the excitement!

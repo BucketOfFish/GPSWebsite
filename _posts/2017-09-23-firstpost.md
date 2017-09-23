@@ -17,5 +17,5 @@ header:
 ---
 <!-- Page Content Starts Here -->
 
-## My First Post
-If you're reading this, then the website worked out ok! Yay, now we're in the information age!
+## Sep 23, 2017
+Dear diary, today I put together a website. It was pretty dope.
