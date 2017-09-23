@@ -22,7 +22,6 @@ widget3:
   url: 'https://github.com/Phlow/feeling-responsive'
   image: tea.jpg
   text: 'Stay on this page for a while. Just like being in the present!'
-permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
