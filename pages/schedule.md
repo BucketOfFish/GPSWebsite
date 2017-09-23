@@ -4,6 +4,7 @@ title: "Schedule"
 teaser: "A glimpse into the future."
 header:
    image_fullwidth: "schedule-banner.jpg"
+permalink: /schedule.html
 ---
 
 ## Current schedule
