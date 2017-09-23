@@ -6,19 +6,19 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: banner.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Presentations"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: presentations.jpg
   text: 'All our old presentations. Just like going back in time!'
 widget2:
-  title: "Why use this theme?"
+  title: "Schedule"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: schedule.jpg
   text: 'Upcoming presentations. Just like going to the future!'
 widget3:
-  title: "Download Theme"
+  title: "Wait"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: tea.jpg
   text: 'Stay on this page for a while. Just like being in the present!'
