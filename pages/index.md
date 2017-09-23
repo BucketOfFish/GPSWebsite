@@ -9,7 +9,7 @@ header:
   image_fullwidth: banner.jpg
 widget1:
   title: "Presentations"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/blog/'
   image: presentations.jpg
   text: 'All our old presentations. Just like going back in time!'
 widget2:
@@ -19,7 +19,7 @@ widget2:
   text: 'Upcoming presentations. Just like going to the future!'
 widget3:
   title: "Wait"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/'
   image: tea.jpg
   text: 'Stay on this page for a while. Just like being in the present!'
 permalink: /index.html
