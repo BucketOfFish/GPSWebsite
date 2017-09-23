@@ -5,7 +5,7 @@ subheadline: "by Matt Zhang"
 teaser: "Oh my god, the posts just keep coming!"
 
 categories:
-  - blog
+  - presentation
 tags:
   - rejoice
   - useless

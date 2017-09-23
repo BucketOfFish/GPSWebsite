@@ -5,7 +5,7 @@ subheadline: "by Matt Zhang"
 teaser: "If you're reading this then the website is a success! Rejoice!"
 
 categories:
-  - blog
+  - presentation
 tags:
   - rejoice
   - useless
