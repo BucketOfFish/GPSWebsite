@@ -12,5 +12,8 @@ permalink: /schedule.html
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|TBA     | TBA     | TBA                         |
+|Oct. 06     | Dhruv Desai     | A math paper Dhruv published                         |
+|Oct. 13     | Damerrick Perry | History of microscopy                         |
+|Oct. 20     | TBD     | Something really good                         |
+|Oct. 27     | Cristina Schlesier     | Muon g-2 experiment                         |
 |:-------|:--------|:---------------------------:|
