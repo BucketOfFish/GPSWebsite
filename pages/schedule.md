@@ -12,8 +12,8 @@ permalink: /schedule.html
 |:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
-|Oct. 06     | Dhruv Desai     | A math paper Dhruv published                         |
+|Oct. 06     | Dhruv Desai     | A geometric proof of Simpson's Paradox                         |
 |Oct. 13     | Damerrick Perry | History of microscopy                         |
-|Oct. 20     | TBD     | Something really good                         |
+|Oct. 20     | Jahan Claes     | The KT transition                          |
 |Oct. 27     | Cristina Schlesier     | Muon g-2 experiment                         |
 |:-------|:--------|:---------------------------:|
