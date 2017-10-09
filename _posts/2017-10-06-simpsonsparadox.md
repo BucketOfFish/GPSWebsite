@@ -17,5 +17,8 @@ header:
     image_fullwidth: presentations-banner.jpg
 ---
 <!-- Page Content Starts Here -->
+Slides for the presentation are given [here][1]
 ## References
-[1] https://www.wikiwand.com/en/Simpson's_paradox
+[Wikipedia article on Simpson's Paradox][2]
+[1]: {{ site.url }}/assets/slides/Geometric_Interpretation_of_Simpsons_Paradox.pdf
+[2]: https://www.wikiwand.com/en/Simpson's_paradox
