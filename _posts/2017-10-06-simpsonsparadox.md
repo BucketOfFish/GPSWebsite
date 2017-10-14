@@ -11,7 +11,7 @@ tags:
   - math
   - proof
 image:
-    thumb: simpsons_paradox.jpeg
+    thumb: simpsons_paradox.jpg
     caption: Simpson's Paradox on display in the 1973 Berkeley discrimination case.
 header:
     image_fullwidth: presentations-banner.jpg
